@@ -40,7 +40,7 @@ Sellers import a **viewing key** (read-only) into the platform. Gimlee verifies 
 
 ## 🚀 Vision
 
-Gimlee is built to be more than a niche marketplace. The long-term goal is a **community-driven, privacy-centric economy** that rivals centralized platforms — without the intermediaries:
+The long-term goal is a **community-driven, privacy-centric economy** that features:
 
 - **Decentralized data storage** — enabling independent, self-synchronizing Gimlee instances
 - **Self-hosted mode** — run your own store with a single Docker image
