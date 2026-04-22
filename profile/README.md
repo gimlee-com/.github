@@ -30,6 +30,7 @@ Sellers import a **viewing key** (read-only) into the platform. Gimlee verifies 
 | [YCash (YEC)](https://ycash.xyz)              | 🟢 In Progress |
 | Monero (XMR)                                  | 🔵 Planned     |
 | Firo (FIRO)                                   | 🔵 Planned     |
+| ZCash (ZEC)                                   | 🔵 Planned     |
 
 ## 📦 Repositories
 
